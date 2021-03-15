@@ -1,2 +1,4 @@
 # GalleryDC
-A small tool for photo archives
+
+A small tool for photo archivement
+
